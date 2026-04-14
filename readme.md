@@ -121,7 +121,7 @@ python app.py
 
 **Then open: http://localhost:5000**
 
-## Your first assignment GitHub repo now contains: ##
+## GitHub repo now contains: ##
 
 * Flask app
 * Jenkinsfile
