@@ -114,3 +114,9 @@ Build
 Test
 Deploy
 Post Actions
+
+**How to Run Application Manually**
+pip install -r requirements.txt
+python app.py
+
+**Then open: http://localhost:5000**
