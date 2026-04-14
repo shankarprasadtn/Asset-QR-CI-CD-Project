@@ -120,3 +120,16 @@ pip install -r requirements.txt
 python app.py
 
 **Then open: http://localhost:5000**
+
+## Your first assignment GitHub repo now contains: ##
+
+Flask app
+Jenkinsfile
+README.md
+Screenshots
+
+1. <img width="959" height="557" alt="image" src="https://github.com/user-attachments/assets/b471b36d-7255-4418-be42-bd1d1aee7d1f" />
+2. <img width="1919" height="1024" alt="Screenshot 2026-04-14 182709" src="https://github.com/user-attachments/assets/66043d26-e186-47af-8610-68318e93745f" />
+3. <img width="1919" height="1049" alt="Screenshot 2026-04-14 182746" src="https://github.com/user-attachments/assets/5228fa98-6fdd-4071-a992-61ff44ab3862" />
+4. <img width="1919" height="1117" alt="Screenshot 2026-04-14 182917" src="https://github.com/user-attachments/assets/8f22b1e3-b61e-410a-ab5f-f4d551d4bfb7" />
+5. <img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/7ab6bc50-ee3a-4abe-8537-7c9de7ff3fa8" />
