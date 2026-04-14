@@ -123,10 +123,10 @@ python app.py
 
 ## Your first assignment GitHub repo now contains: ##
 
-Flask app
-Jenkinsfile
-README.md
-Screenshots
+* Flask app
+* Jenkinsfile
+* README.md
+* Screenshots
 
 1. <img width="959" height="557" alt="image" src="https://github.com/user-attachments/assets/b471b36d-7255-4418-be42-bd1d1aee7d1f" />
 2. <img width="1919" height="1024" alt="Screenshot 2026-04-14 182709" src="https://github.com/user-attachments/assets/66043d26-e186-47af-8610-68318e93745f" />
